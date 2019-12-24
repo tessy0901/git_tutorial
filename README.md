@@ -1,6 +1,7 @@
 
 ## name
 tessy0901
+sushi
 kajitani taichi
 
 OKADA
