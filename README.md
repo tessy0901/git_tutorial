@@ -1,6 +1,8 @@
 
 ## name
 tessy0901
+kajitani taichi
+
 OKADA
 
 # 一番簡単なgitの使い方〜日本語編〜
