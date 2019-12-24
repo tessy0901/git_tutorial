@@ -2,6 +2,9 @@
 ## name
 tessy0901
 sushi
+kajitani taichi
+
+OKADA
 
 # 一番簡単なgitの使い方〜日本語編〜
 1. ソースコードを変更します
